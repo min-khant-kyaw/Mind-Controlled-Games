@@ -73,3 +73,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Python
+/.idea
+/__pycache__
+/venv
+/venvi
+/env
+.xml
+*.json
+/.env*
+*.log
+*.pyc
